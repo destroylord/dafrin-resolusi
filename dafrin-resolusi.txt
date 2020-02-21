@@ -1,0 +1,4 @@
+Dafrin Resolusi
+-konsisten untuk membuat konten artikel 2x seminggu
+-membuat crud dengan php
+-membuat group telegram diskusi
