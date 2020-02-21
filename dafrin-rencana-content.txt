@@ -4,6 +4,7 @@ Rencana Content Darin
   *es6
   *framework js
    ^ vue
+   ^ React Js
 -Struktur Data dasar
 -php framework
  ^ laravel
