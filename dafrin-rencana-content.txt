@@ -3,7 +3,9 @@ Rencana Content Darin
 -Js
   *es6
   *framework js
--Struktur Data dasar
+   ^ Angular
+   ^ React
 -php framework
+ ^ Laravel
 -interview
 -vlog
