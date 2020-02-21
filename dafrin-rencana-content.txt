@@ -1,6 +1,8 @@
 Rencana Content Darin
 
 -Js
+  *es6
+  *framework js
 -php framework
 -interview
 -vlog
